@@ -83,7 +83,7 @@ https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR" tvg-shift="" radio="" tvg-logo="http://greektv.pbworks.com/f/STAR.png" group-title="GREECE",STAR
 #https://cdnapisec.kaltura.com/p/713821/sp/0/playManifest/entryId/1_fp7fyi3j/format/applehttp/protocol/https/flavorParamId/0/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR HD" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/star_tv_tr_hd.png" group-title="TURKEY",STAR HD
-#http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TEVE 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/teve2.png" group-title="TURKEY",TEVE 2
 #https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/playlist.m3u8
 #https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
