@@ -27,8 +27,6 @@ https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ERT SPORTS HD" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/greece/ert-sports-gr/ert-sports-gr.png" group-title="GREECE",ERT SPORTS HD
 https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ERT World" tvg-shift="" radio="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gr-ert-world.jpg" group-title="-",ERT World
-http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ERT1" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/greece/ert_gr_1.png" group-title="GREECE",ERT1
 https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ERT2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/greece/ert_gr_2.png" group-title="GREECE",ERT2
@@ -76,22 +74,20 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
 #https://canli.ensonhaber.com/tr/showtv/index.m3u8
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR" tvg-shift="" radio="" tvg-logo="http://greektv.pbworks.com/f/STAR.png" group-title="GREECE",STAR
-#https://cdnapisec.kaltura.com/p/713821/sp/0/playManifest/entryId/1_fp7fyi3j/format/applehttp/protocol/https/flavorParamId/0/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR HD" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/star_tv_tr_hd.png" group-title="TURKEY",STAR HD
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TEVE 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/teve2.png" group-title="TURKEY",TEVE 2
 #https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/playlist.m3u8
 #https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tele_1.png" group-title="TURKEY",TELE 1
+#EXTINF:-1 tvg-id="" tvg-name="TELE1" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tele_1.png" group-title="TURKEY",TELE 1
 http://ch.canlitvlive.io/tele1/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tlc.png" group-title="TURKEY",TLC
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1 HD" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt1_hd.png" group-title="TURKEY",TRT 1 HD
 #https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/playlist.m3u8
-#https://tv-trt1.live.trt.com.tr/master.m3u8
-http://tv-trt1.live.trt.com.tr/master_720.m3u8
+https://tv-trt1.live.trt.com.tr/master.m3u8
+#http://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL HD" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt_belgesel_tr_hd.png" group-title="TURKEY",TRT BELGESEL HD
 #https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_hd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd2.smil/playlist.m3u8
