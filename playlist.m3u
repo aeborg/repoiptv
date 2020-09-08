@@ -77,7 +77,7 @@ https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR HD" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/star_tv_tr_hd.png" group-title="TURKEY",STAR HD
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TEVE 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/teve2.png" group-title="TURKEY",TEVE 2
+#EXTINF:-1 tvg-id="TV2.tr" tvg-name="TEVE 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/teve2.png" group-title="TURKEY",TEVE 2
 #https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/playlist.m3u8
 #https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd2.smil/playlist.m3u8
@@ -95,7 +95,7 @@ https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd2.smil/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TV 24 HD" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/24_tr.png" group-title="TURKEY",TV 24 HD
 #https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?
 
-#EXTINF:-1 tvg-id="" tvg-name="TV 360 HD" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/360_tv_tr.png" group-title="TURKEY",TV 360 HD
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TV 360 HD" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/360_tv_tr.png" group-title="TURKEY",TV 360 HD
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 HD" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/tv8_tr.png" group-title="TURKEY",TV 8 HD
 #http://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/chunklist_b3128000.m3u8
