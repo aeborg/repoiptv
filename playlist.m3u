@@ -12,14 +12,15 @@ http://ch.canlitvlive.io/atv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/BBC2.png" group-title="INTERNATIONAL",BBC 2
 http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/bbc_world_news_uk.png" group-title="INTERNATIONAL",BBC World
-http://ingrid.ltd:25461/Melon3175/Melon7531/39726?checkedby:iptvcat.com
+#http://ingrid.ltd:25461/Melon3175/Melon7531/39726?checkedby:iptvcat.com
+https://canli.ensonhaber.com/tr/beyaztv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/BEYAZHDPLUS.png" group-title="TURKEY",BEYAZ TV 
 #https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd2.smil/playlist.m3u8
 #https://canli.ensonhaber.com/tr/beyaztv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-shift="" radio="" tvg-logo="https://www.bloomberght.com/images/logo.png" group-title="TURKEY",BLOOMBERG 
-#https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_hd.smil/playlist.m3u8
-https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd2.smil/playlist.m3u8
+https://canli.ensonhaber.com/tr/bloomberght/index.m3u8?checkedby:iptvcat.com
+#https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="INTERNATIONAL",CNN International
 #http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/cnn_turk.png" group-title="TURKEY",CNN TURK 
