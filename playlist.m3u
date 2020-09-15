@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/a_spor_tr.png" group-title="TURKEY",A SPOR 
-https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd2.smil/playlist.m3u8
+https://tv.kuzeytv.com/hls/aspor.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="ALPHA HD" tvg-shift="" radio="" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png" group-title="GREECE",ALPHA HD
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANT1 HD" tvg-shift="" radio="" tvg-logo="http://greektv.pbworks.com/f/ANT1.png" group-title="GREECE",ANT1 HD
@@ -14,17 +14,13 @@ http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/bbc_world_news_uk.png" group-title="INTERNATIONAL",BBC World
 http://ingrid.ltd:25461/Melon3175/Melon7531/39726
 #EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/BEYAZHDPLUS.png" group-title="TURKEY",BEYAZ TV 
-#https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/playlist.m3u8
-#https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd2.smil/playlist.m3u8
 https://canli.ensonhaber.com/tr/beyaztv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-shift="" radio="" tvg-logo="https://www.bloomberght.com/images/logo.png" group-title="TURKEY",BLOOMBERG 
 https://canli.ensonhaber.com/tr/bloomberght/index.m3u8
-#https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="INTERNATIONAL",CNN International
 #http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/cnn_turk.png" group-title="TURKEY",CNN TURK 
-#https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_hd.smil/playlist.m3u8
-https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd2.smil/playlist.m3u8
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/DMAXHDPLUS.png" group-title="TURKEY",DMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW EUROPE" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/germanynew/dw.png" group-title="INTERNATIONAL",DW EUROPE
@@ -70,9 +66,7 @@ https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/show_tv_tr.png" group-title="TURKEY",SHOW TV 
-#https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
-#https://canli.ensonhaber.com/tr/showtv/index.m3u8
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd2.smil/playlist.m3u8
+https://canli.ensonhaber.com/tr/showtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/star_tv_tr_hd.png" group-title="TURKEY",STAR
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="TV2.tr" tvg-name="TEVE 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/teve2.png" group-title="TURKEY",TEVE 2
@@ -83,7 +77,6 @@ http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tlc.png" group-title="TURKEY",TLC
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt1_hd.png" group-title="TURKEY",TRT 1 
-#https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/playlist.m3u8
 https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt_belgesel_tr_hd.png" group-title="TURKEY",TRT BELGESEL HD
 http://key-fast.xyz:8080/MakhmudOmar/Ddddf3434/67779?checkedby:iptvcat.com
