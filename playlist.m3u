@@ -6,7 +6,7 @@ https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANT1 HD" tvg-shift="" radio="" tvg-logo="http://greektv.pbworks.com/f/ANT1.png" group-title="GREECE",ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARTI TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/arti_tv_de.png" group-title="TURKEY",ARTI 
-http://key-fast.xyz:8080/MakhmudOmar/Ddddf3434/67793?checkedby:iptvcat.com
+http://key-fast.xyz:8080/MakhmudOmar/Ddddf3434/67793
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2MPMkjM/atv-logo-png-atv-logo-300.png" tvg-country="TR" tvg-url="" group-title="TURKEY",A TV
 http://ch.canlitvlive.io/atv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/BBC2.png" group-title="INTERNATIONAL",BBC 2
@@ -50,7 +50,7 @@ http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 7" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/kanal7_tr.png" group-title="TURKEY",KANAL 7
 #https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/playlist.m3u8
-https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd2.smil/playlist.m3u8
+https://tv.kuzeytv.com/hls/kanal7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL D" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/kanal_d_tr.png" group-title="TURKEY",KANAL D 
 https://soledge13.duhnet.tv//S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/krt_tr.png" group-title="TURKEY",KRT TV
@@ -88,7 +88,7 @@ http://iptvmasterlink.dyndns.org:8080/Entry/trtsporhd_yeni/index.m3u8?checkedby:
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/tv8_tr.png" group-title="TURKEY",TV 8 
 #http://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/chunklist_b3128000.m3u8
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd2.smil/playlist.m3u8
+https://tv.kuzeytv.com/hls/tv8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/tv85_tr.png" group-title="TURKEY",TV 8.5 
 #https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd2.smil/playlist.m3u8
