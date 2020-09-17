@@ -8,7 +8,8 @@ https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARTI TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/arti_tv_de.png" group-title="TURKEY",ARTI 
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/139?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2MPMkjM/atv-logo-png-atv-logo-300.png" tvg-country="TR" tvg-url="" group-title="TURKEY",A TV
-http://ch.canlitvlive.io/atv/live.m3u8
+#http://ch.canlitvlive.io/atv/live.m3u8
+https://itasli.tk/iptvtr/atv.m3u8
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/BBC2.png" group-title="INTERNATIONAL",BBC 2
 http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.nws" tvg-name="BBC World" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/bbc_world_news_uk.png" group-title="INTERNATIONAL",BBC World
@@ -34,7 +35,7 @@ https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-name="Euronews.nws" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/denmark/euronews_fr.png" group-title="INTERNATIONAL",EuroNews English 
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/fox.png" group-title="TURKEY",FOX TV 
-http://key-fast.xyz:8080/MakhmudOmar/Ddddf3434/67915?checkedby:iptvcat.com
+https://itasli.tk/iptvtr/fox.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="INTERNATIONAL",France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/haber_global.png" group-title="TURKEY",HABER GLOBAL
