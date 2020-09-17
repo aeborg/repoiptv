@@ -79,7 +79,7 @@ http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt1_hd.png" group-title="TURKEY",TRT 1 
 https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTBelgeselHD.tr" tvg-name="TRT BELGESEL" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt_belgesel_tr_hd.png" group-title="TURKEY",TRT BELGESEL HD
-http://key-fast.xyz:8080/MakhmudOmar/Ddddf3434/67779?checkedby:iptvcat.com
+http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="TRTSPOR.tr" tvg-name="TRT SPOR" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt_spor_tr.png" group-title="TURKEY",TRT SPOR
 http://iptvmasterlink.dyndns.org:8080/Entry/trtsporhd_yeni/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="TV 24" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/24_tr.png" group-title="TURKEY",TV 24 
@@ -91,6 +91,5 @@ http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
 https://tv.kuzeytv.com/hls/tv8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/tv85_tr.png" group-title="TURKEY",TV 8.5 
 #https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/playlist.m3u8
-https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24 Mutfak" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/tv85_tr.png" group-title="TURKEY",24 Mutfak
-http://key-fast.xyz:8080/MakhmudOmar/Ddddf3434/67839
+http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd?checkedby:iptvcat.com
+
