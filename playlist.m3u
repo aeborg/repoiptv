@@ -21,7 +21,7 @@ https://canli.ensonhaber.com/tr/bloomberght/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="INTERNATIONAL",CNN International
 #http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="CNN.tr" tvg-name="CNN TURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/cnn_turk.png" group-title="TURKEY",CNN TURK 
-https://tv.kuzeytv.com/hls/cnnturk.m3u8?checkedby:iptvcat.com
+https://tv.kuzeytv.com/hls/cnnturk.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/DMAXHDPLUS.png" group-title="TURKEY",DMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW EUROPE" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/germanynew/dw.png" group-title="INTERNATIONAL",DW EUROPE
