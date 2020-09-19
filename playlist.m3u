@@ -26,11 +26,11 @@ https://tv.kuzeytv.com/hls/cnnturk.m3u8
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW EUROPE" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/germanynew/dw.png" group-title="INTERNATIONAL",DW EUROPE
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ERT SPORTS HD" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/greece/ert-sports-gr/ert-sports-gr.png" group-title="GREECE",ERT SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="ERT SPORTS HD" tvg-shift="" radio="" tvg-logo="https://www.sportime.gr/wp-content/uploads/2019/02/ert.jpg" group-title="GREECE",ERT SPORTS HD
 https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ERT1" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/greece/ert_gr_1.png" group-title="GREECE",ERT1
+#EXTINF:-1 tvg-id="" tvg-name="ERT1" tvg-shift="" radio="" tvg-logo="https://stadiodromia.gr/thleorash/ert1/ert1_logo.png" group-title="GREECE",ERT1
 https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ERT2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/greece/ert_gr_2.png" group-title="GREECE",ERT2
+#EXTINF:-1 tvg-id="" tvg-name="ERT2" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EPT2_logo_%282015%29.svg/480px-EPT2_logo_%282015%29.svg.png" group-title="GREECE",ERT2
 https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-name="Euronews.nws" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/denmark/euronews_fr.png" group-title="INTERNATIONAL",EURONEWS 
 http://66.northerniptv.ca:8000/live/george/george123/67409.m3u8
