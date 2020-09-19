@@ -11,9 +11,9 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/139?checkedby:iptvcat.com
 #http://ch.canlitvlive.io/atv/live.m3u8
 https://itasli.tk/iptvtr/atv.m3u8
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/BBC2.png" group-title="INTERNATIONAL",BBC 2
-http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
+http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.nws" tvg-name="BBC World" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/bbc_world_news_uk.png" group-title="INTERNATIONAL",BBC World
-http://randomserver.site:2086/123456789/123456789/95448?checkedby:iptvcat.com
+http://185.236.229.4:8000/play/a13c
 #EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="BEYAZ TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/BEYAZHDPLUS.png" group-title="TURKEY",BEYAZ TV 
 https://canli.ensonhaber.com/tr/beyaztv/index.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG.tr" tvg-name="BLOOMBERG" tvg-shift="" radio="" tvg-logo="https://www.bloomberght.com/images/logo.png" group-title="TURKEY",BLOOMBERG 
@@ -43,8 +43,8 @@ https://canli.ensonhaber.com/tr/haberglobal/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="HABERTURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/haber_turk.png" group-title="TURKEY",HABERTURK 
 https://canli.ensonhaber.com/tr/haberturk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/halk_tv.png" group-title="TURKEY",HALK TV
-#https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/playlist.m3u8
-https://tv.kuzeytv.com/hls/halk.m3u8
+#https://tv.kuzeytv.com/hls/halk.m3u8
+https://itasli.tk/iptvtr/halk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS Spor" tvg-shift="" radio="" tvg-logo="http://www.yilmaztv.com/logo/idman-tv.png" group-title="SD",CBS Spor
 http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="" tvg-name="ITV" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="INTERNATIONAL",ITV
@@ -80,16 +80,16 @@ http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt1_hd.png" group-title="TURKEY",TRT 1 
 https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt_belgesel_tr_hd.png" group-title="TURKEY",TRT BELGESEL HD
-http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd?checkedby:iptvcat.com
+http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="TRTSPOR.tr" tvg-name="TRT SPOR" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt_spor_tr.png" group-title="TURKEY",TRT SPOR
-http://iptvmasterlink.dyndns.org:8080/Entry/trtsporhd_yeni/index.m3u8?checkedby:iptvcat.com
+http://iptvmasterlink.dyndns.org:8080/Entry/trtsporhd_yeni/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 24" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/24_tr.png" group-title="TURKEY",TV 24 
-#https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?
+#https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="TV 360" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/360_tv_tr.png" group-title="TURKEY",TV 360
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/tv8_tr.png" group-title="TURKEY",TV 8 
-#http://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/chunklist_b3128000.m3u8
-https://tv.kuzeytv.com/hls/tv8.m3u8
+#https://tv.kuzeytv.com/hls/tv8.m3u8
+https://itasli.tk/iptvtr/tv8.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV 8.5" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/tv85_tr.png" group-title="TURKEY",TV 8.5 
 #https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/playlist.m3u8
 http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd?checkedby:iptvcat.com
