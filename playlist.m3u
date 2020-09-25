@@ -53,7 +53,8 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u
 #https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/playlist.m3u8
 https://itasli.tk/iptvtr/kanal7.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/kanal_d_tr.png" group-title="TURKEY",KANAL D 
-https://soledge13.duhnet.tv//S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8
+#https://soledge13.duhnet.tv//S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8
+https://itasli.tk/iptvtr/kanald.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/krt_tr.png" group-title="TURKEY",KRT TV
 http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
 #EXTINF:-1 tvg-id="NHKworld.jp" tvg-name="NHK WORLD" tvg-shift="" radio="" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL.png" group-title="INTERNATIONAL",NHK WORLD
@@ -73,7 +74,8 @@ http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV" tvg-shift="" radio="" tvg-logo="https://www.nos.pt/institucional/PT/sobre-a-nos/empresas-e-negocios/PublishingImages/Logos/sport-tv.jpg"group-title="PORTUGAL" ,Sport TV 1
 http://77.54.145.209:81/play/a02v
 #EXTINF:-1 tvg-id="TV2.tr" tvg-name="TEVE 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/teve2.png" group-title="TURKEY",TEVE 2
-https://soledge13.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#https://soledge13.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+https://itasli.tk/iptvtr/teve2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE1" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tele_1.png" group-title="TURKEY",TELE 1
 #http://ch.canlitvlive.io/tele1/live.m3u8
 http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
