@@ -21,7 +21,8 @@ https://canli.ensonhaber.com/tr/bloomberght/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="INTERNATIONAL",CNN International
 http://197.13.21.8:8000/play/a02n
 #EXTINF:-1 tvg-id="CNN.tr" tvg-name="CNN TURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/cnn_turk.png" group-title="TURKEY",CNN TURK 
-https://itasli.tk/iptvtr/cnnturk.m3u8
+#https://itasli.tk/iptvtr/cnnturk.m3u8
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/DMAXHDPLUS.png" group-title="TURKEY",DMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW EUROPE" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/germanynew/dw.png" group-title="INTERNATIONAL",DW EUROPE
@@ -45,8 +46,8 @@ https://canli.ensonhaber.com/tr/haberglobal/index.m3u8
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="HABERTURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/haber_turk.png" group-title="TURKEY",HABERTURK 
 https://canli.ensonhaber.com/tr/haberturk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/halk_tv.png" group-title="TURKEY",HALK TV
-#https://tv.kuzeytv.com/hls/halk.m3u8
-https://itasli.tk/iptvtr/halk.m3u8
+https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
+#https://itasli.tk/iptvtr/halk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS Spor" tvg-shift="" radio="" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" group-title="AZERBAYCAN",CBS Spor
 #http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
 http://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
@@ -57,7 +58,8 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u
 https://itasli.tk/iptvtr/kanal7.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/kanal_d_tr.png" group-title="TURKEY",KANAL D 
 #https://soledge13.duhnet.tv//S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8
-https://itasli.tk/iptvtr/kanald.m3u8
+#https://itasli.tk/iptvtr/kanald.m3u8
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/krt_tr.png" group-title="TURKEY",KRT TV
 http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
 #EXTINF:-1 tvg-id="NHKworld.jp" tvg-name="NHK WORLD" tvg-shift="" radio="" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL.png" group-title="INTERNATIONAL",NHK WORLD
