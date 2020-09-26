@@ -34,8 +34,7 @@ https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ERT2" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EPT2_logo_%282015%29.svg/480px-EPT2_logo_%282015%29.svg.png" group-title="GREECE",ERT2
 https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-name="Euronews.nws" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/denmark/euronews_fr.png" group-title="INTERNATIONAL",EURONEWS 
-#http://66.northerniptv.ca:8000/live/george/george123/67409.m3u8
-https://euronews-en-p9-cdn.hexaglobe.net/c4048bd390a1b8fc3fda3d4e9707e704/5f6dbf4c/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_720p33.m3u8
+http://66.northerniptv.ca:8000/live/george/george123/67409.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/fox.png" group-title="TURKEY",FOX TV 
 #https://itasli.tk/iptvtr/fox.m3u8
 https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1601074964&st=g5k-sPpHmMJHmJjUfAYZ5Q
