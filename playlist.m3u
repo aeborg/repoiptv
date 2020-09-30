@@ -39,7 +39,8 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_1/ert_sports_1medium.
 #http://stream.suboroiptv.tv/Euronews/playlist.m3u8
 https://stream-02.ix7.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa6hqJ09oWsSUsF-qqzlZxfI)/dm/3/x2j4h4m/s/live-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/UK/EUROSPORTS1.png" group-title="INTERNATIONAL",EUROSPORT 1 
-http://136.243.177.164/EUROSPORT/playlist.m3u8
+#http://136.243.177.164/EUROSPORT/playlist.m3u8
+https://itasli.tk/iptvtr/eurosport1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/UK/EUROSPORTS2.png" group-title="INTERNATIONAL",EUROSPORT 2 
 http://136.243.177.164/EUROSPORT2/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/fox.png" group-title="TURKEY",FOX TV 
