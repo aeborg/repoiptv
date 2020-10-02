@@ -1,6 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A SPOR" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/a_spor_tr.png" group-title="TURKEY",A SPOR 
 https://itasli.tk/iptvtr/aspor.m3u8
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="INTERNATIONAL",Al Jazeera (QA) (Opt-3)
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
 #EXTINF:-1 tvg-id="alpha.gr" tvg-name="ALPHA HD" tvg-shift="" radio="" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png" group-title="GREECE",ALPHA HD
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 tvg-id="ANT1.gr" tvg-name="ANT1 HD" tvg-shift="" radio="" tvg-logo="http://greektv.pbworks.com/f/ANT1.png" group-title="GREECE",ANT1 HD
