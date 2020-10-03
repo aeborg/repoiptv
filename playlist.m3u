@@ -1,6 +1,7 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A SPOR" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/a_spor_tr.png" group-title="TURKEY",A SPOR 
-https://itasli.tk/iptvtr/aspor.m3u8
+#https://itasli.tk/iptvtr/aspor.m3u8
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraInt.tr" tvg-name="A SPOR" tvg-shift="" radio="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="INTERNATIONAL",Al Jazeera
 http://45.126.83.51/qwr9ew/s/s17/index.m3u8
 #EXTINF:-1 tvg-id="alpha.gr" tvg-name="ALPHA HD" tvg-shift="" radio="" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png" group-title="GREECE",ALPHA HD
@@ -45,7 +46,8 @@ https://itasli.tk/iptvtr/eurosport1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/UK/EUROSPORTS2.png" group-title="INTERNATIONAL",EUROSPORT 2 
 http://136.243.177.164/EUROSPORT2/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/fox.png" group-title="TURKEY",FOX TV 
-https://itasli.tk/iptvtr/fox.m3u8
+#https://itasli.tk/iptvtr/fox.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="INTERNATIONAL",FRANCE 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/haber_global.png" group-title="TURKEY",HABER GLOBAL
