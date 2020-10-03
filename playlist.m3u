@@ -38,7 +38,7 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ERT 1 SPOR" tvg-shift="" radio="" tvg-logo="" group-title="GREECE",ERT 1 SPOR
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_1/ert_sports_1medium.m3u8
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-name="Euronews.nws" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/denmark/euronews_fr.png" group-title="INTERNATIONAL",EURONEWS 
-http://stream.suboroiptv.tv/Euronews/playlist.m3u8
+https://euronews-en-p12-cdn.hexaglobe.net/c473ad07e8946580e96c862ec12a23ec/5f784c9f/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_720p33.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/UK/EUROSPORTS1.png" group-title="INTERNATIONAL",EUROSPORT 1 
 #http://136.243.177.164/EUROSPORT/playlist.m3u8
 https://itasli.tk/iptvtr/eurosport1.m3u8
