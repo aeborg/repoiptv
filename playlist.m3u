@@ -93,8 +93,7 @@ https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV" tvg-shift="" radio="" tvg-logo="https://www.nos.pt/institucional/PT/sobre-a-nos/empresas-e-negocios/PublishingImages/Logos/sport-tv.jpg"group-title="PORTUGAL" ,Sport TV 1
 http://77.54.145.209:81/play/a02v
 #EXTINF:-1 tvg-id="TV2.tr" tvg-name="TEVE 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/teve2.png" group-title="TURKEY",TEVE 2
-#https://itasli.tk/iptvtr/teve2.m3u8
-https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE1" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tele_1.png" group-title="TURKEY",TELE 1
 #http://ch.canlitvlive.io/tele1/live.m3u8
 http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
