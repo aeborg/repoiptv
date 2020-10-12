@@ -60,7 +60,6 @@ https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/chunklist_b206400
 https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
 #https://itasli.tk/iptvtr/halk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS Spor" tvg-shift="" radio="" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" group-title="AZERBAYCAN",CBS Spor
-#http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
 http://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ITV" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="INTERNATIONAL",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
