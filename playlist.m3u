@@ -118,7 +118,7 @@ https://itasli.tk/iptvtr/tv360.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/tv8_tr.png" group-title="TURKEY",TV 8 
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
 #https://itasli.tk/iptvtr/tv8.m3u8
-#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV 8.5" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/tv85_tr.png" group-title="TURKEY",TV 8.5 
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8.5" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/tv85_tr.png" group-title="TURKEY",TV 8.5 
 #https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/playlist.m3u8
 https://itasli.tk/iptvtr/tv85.m3u8
 
