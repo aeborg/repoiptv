@@ -38,7 +38,7 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ERT2" tvg-shift="" radio="" tvg-logo="https://www.media.gr/wp-content/uploads/2020/03/ερτ2-ert2-tv-live.jpg" group-title="GREECE",ERT2
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ERT 1 SPOR" tvg-shift="" radio="" tvg-logo="" group-title="GREECE",ERT 1 SPOR
+#EXTINF:-1 tvg-id="" tvg-name="ERT 1 SPOR" tvg-shift="" radio="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/ERT_Sports_HD.png/revision/latest/scale-to-width-down/300?cb=20190210141418" group-title="GREECE",ERT 1 SPOR
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_1/ert_sports_1medium.m3u8
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-name="Euronews.nws" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/denmark/euronews_fr.png" group-title="INTERNATIONAL",EURONEWS 
 https://stream-02.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa9FjC7P3DaTB5GCnbgZfBJQ)/dm/3/x2j4h4m/s/live-3.m3u8
