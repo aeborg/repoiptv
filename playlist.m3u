@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A SPOR" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/a_spor_tr.png" group-title="TURKEY",A SPOR 
 #https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/chunklist_b2064000.m3u8
-#https://itasli.tk/iptvtr/aspor.m3u8
 http://185.129.1.242:80/asporhd/mpegts
 #EXTINF:-1 tvg-id="AlJazeeraInt.tr" tvg-name="AlJazeeraInt" tvg-shift="" radio="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="INTERNATIONAL",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -107,9 +106,9 @@ https://itasli.tk/iptvtr/trtspor2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 24" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/24_tr.png" group-title="TURKEY",TV 24 
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="TV 360" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/360_tv_tr.png" group-title="TURKEY",TV 360
-https://itasli.tk/iptvtr/tv360.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/tv8_tr.png" group-title="TURKEY",TV 8 
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8.5" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/tv85_tr.png" group-title="TURKEY",TV 8.5 
-https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist_b2064000.m3u8
 
