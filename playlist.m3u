@@ -38,8 +38,7 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ERT 1 SPOR" tvg-shift="" radio="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/ERT_Sports_HD.png/revision/latest/scale-to-width-down/300?cb=20190210141418" group-title="GREECE",ERT 1 SPOR
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_1/ert_sports_1medium.m3u8
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-name="Euronews.nws" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/denmark/euronews_fr.png" group-title="INTERNATIONAL",EURONEWS 
-#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
-https://stream-04.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa4C4Sjpk7j8goYhkwgBhOdg)/dm/3/x2j4h4m/s/live-3.m3u8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector-xs.png" group-title="INTERNATIONAL",EUROSPORT 1 
 http://136.243.177.164/EUROSPORT/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector-xs.png" group-title="INTERNATIONAL",EUROSPORT 2 
