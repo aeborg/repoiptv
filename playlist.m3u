@@ -80,7 +80,7 @@ https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/show_tv_tr.png" group-title="TURKEY",SHOW TV 
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="Skai.gr" tvg-name="SKAI GREECE" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Skai_tv_logo.png" group-title="GREECE",SKAI GREECE
-https://skai-live.siliconweb.com/media/cambria4/index_bitrate2750K.m3u8
+https://skai-live-gr-bb.siliconweb.com/media/cambria4/index_bitrate2750K.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/star_tv_tr_hd.png" group-title="TURKEY",STAR TV
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="star.gr" tvg-name="STAR GREECE" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/Zxx80Od.png" group-title="GREECE",STAR GREECE
