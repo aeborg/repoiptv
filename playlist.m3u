@@ -9,7 +9,7 @@ https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 tvg-id="ANT1.gr" tvg-name="ANT1 HD" tvg-shift="" radio="" tvg-logo="http://greektv.pbworks.com/f/ANT1.png" group-title="GREECE",ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARTI TV" tvg-shift="" radio="" tvg-logo="https://artitv.tv/wp-content/uploads/ARTI_TV_LOGO_240px.jpg" group-title="TURKEY",ARTI 
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/139
+#http://163.172.39.215:25461/line/C4@!a3a1@!w72A/139
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-language="Turkish" tvg-logo="http://picon.webhop.net/logo/turkey/atv_tr.png" tvg-country="TR" tvg-url="" group-title="TURKEY",A TV
 http://185.129.1.242:80/atvhd/mpegts
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/BBC2.png" group-title="INTERNATIONAL",BBC 2
@@ -67,7 +67,7 @@ https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/krt_tr.png" group-title="TURKEY",KRT TV
 http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
 #EXTINF:-1 tvg-id="NHKworld.jp" tvg-name="NHK WORLD" tvg-shift="" radio="" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL.png" group-title="INTERNATIONAL",NHK WORLD
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/ntv_tr.png" group-title="TURKEY",NTV 
 #https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/chunklist_b2064000.m3u8
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
