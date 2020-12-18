@@ -22,7 +22,7 @@ https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/chunklist_b2064000.m3
 #EXTINF:-1 tvg-id="BLOOMBERG.tr" tvg-name="BLOOMBERG" tvg-shift="" radio="" tvg-logo="https://www.bloomberght.com/images/logo.png" group-title="TURKEY",BLOOMBERG 
 https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="INTERNATIONAL",CNN International
-http://197.13.21.8:8000/play/a02n
+http://5.158.45.204:9981/stream/channelid/887502409
 #EXTINF:-1 tvg-id="CNN.tr" tvg-name="CNN TURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/cnn_turk.png" group-title="TURKEY",CNN TURK 
 https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/DMAXHDPLUS.png" group-title="TURKEY",DMAX
