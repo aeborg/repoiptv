@@ -90,9 +90,7 @@ http://77.54.145.209:81/play/a02v
 #EXTINF:-1 tvg-id="TV2.tr" tvg-name="TEVE 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/teve2.png" group-title="TURKEY",TEVE 2
 https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE1" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tele_1.png" group-title="TURKEY",TELE 1
-#http://ch.canlitvlive.io/tele1/live.m3u8
-#http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
-https://stream-05.dc3.dailymotion.com/sec(oGEyQzojvNQy_SUQu81YX1YgaZ5Zg1V-g5RRNppaeEc)/dm/3/x6uoseg/d/live-4.m3u8
+https://stream-05.ix7.dailymotion.com/sec(oGEyQzojvNQy_SUQu81YX5oQnqsLjUYhGWW45X-15CY)/dm/3/x6uoseg/d/live-4.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tlc.png" group-title="TURKEY",TLC
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt1_hd.png" group-title="TURKEY",TRT 1 
