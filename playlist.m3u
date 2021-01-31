@@ -20,8 +20,6 @@ http://51.52.156.22:8888/http/004
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG.tr" tvg-name="BLOOMBERG" tvg-shift="" radio="" tvg-logo="https://www.bloomberght.com/images/logo.png" group-title="TURKEY",BLOOMBERG 
 https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="INTERNATIONAL",CNN International
-http://5.158.45.204:9981/stream/channelid/887502409
 #EXTINF:-1 tvg-id="CNN.tr" tvg-name="CNN TURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/cnn_turk.png" group-title="TURKEY",CNN TURK 
 https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/DMAXHDPLUS.png" group-title="TURKEY",DMAX
@@ -35,7 +33,7 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ERT2" tvg-shift="" radio="" tvg-logo="https://www.media.gr/wp-content/uploads/2020/03/ερτ2-ert2-tv-live.jpg" group-title="GREECE",ERT2
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-name="Euronews.nws" tvg-shift="" radio="" tvg-logo="https://www.driver-project.eu/wp-content/uploads/2018/06/euronews-logo.jpg" group-title="INTERNATIONAL",EURONEWS 
-https://stream-05.ix7.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa8fw9xYoi_YPoemWe_INLTM)/dm/3/x2j4h4m/s/live-3.m3u8
+https://stream-11.ix7.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa8SQn6GcpZ0WVFSkFe2lXYc)/dm/3/x2j4h4m/s/live-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector-xs.png" group-title="INTERNATIONAL",EUROSPORT 1 
 http://136.243.177.164/EUROSPORT/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector-xs.png" group-title="INTERNATIONAL",EUROSPORT 2 
