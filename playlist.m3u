@@ -14,8 +14,7 @@ http://zero2.site:8080/zero/zero/38
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/BBC2.png" group-title="INTERNATIONAL",BBC 2
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.nws" tvg-name="BBC World" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/bbc_world_news_uk.png" group-title="INTERNATIONAL",BBC World
-#http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-http://51.52.156.22:8888/http/004
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="BEYAZ TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/BEYAZHDPLUS.png" group-title="TURKEY",BEYAZ TV 
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG.tr" tvg-name="BLOOMBERG" tvg-shift="" radio="" tvg-logo="https://www.bloomberght.com/images/logo.png" group-title="TURKEY",BLOOMBERG 
@@ -46,7 +45,7 @@ https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/fox.png" group-title="TURKEY",FOX TV 
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="INTERNATIONAL",FRANCE 24
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/haber_global.png" group-title="TURKEY",HABER GLOBAL
 https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="HABERTURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/haber_turk.png" group-title="TURKEY",HABERTURK 
@@ -70,7 +69,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/ntv_tr.png" group-title="TURKEY",NTV 
 https://mn-nl.mncdn.com/blutv_ntv/ntv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="NovaSport.cz" tvg-name="Nova Sport" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Nova_sport_logo.png" group-title="TURKEY",Nova Sport 
-http://136.243.177.164/NOVASPORT/playlist.m3u8
+#http://136.243.177.164/NOVASPORT/playlist.m3u8
 #EXTINF:-1 tvg-id="OPENBEYOND.gr" tvg-name="ONE TV" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" group-title="GREECE",ONE TV
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV (English)" tvg-shift="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/896773300667461633/F75hrQfN.jpg" group-title="SPORTS",REAL MADRID TV
@@ -85,7 +84,7 @@ https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="star.gr" tvg-name="STAR GREECE" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/Zxx80Od.png" group-title="GREECE",STAR GREECE
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV" tvg-shift="" radio="" tvg-logo="https://www.nos.pt/institucional/PT/sobre-a-nos/empresas-e-negocios/PublishingImages/Logos/sport-tv.jpg"group-title="PORTUGAL" ,Sport TV 1
-http://77.54.145.209:81/play/a02v
+#http://77.54.145.209:81/play/a02v
 #EXTINF:-1 tvg-id="TV2.tr" tvg-name="TEVE 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/teve2.png" group-title="TURKEY",TEVE 2
 https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE1" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tele_1.png" group-title="TURKEY",TELE 1
