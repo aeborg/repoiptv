@@ -67,11 +67,11 @@ https://mn-nl.mncdn.com/blutv_ntv/ntv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="NovaSport.cz" tvg-name="Nova Sport" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Nova_sport_logo.png" group-title="TURKEY",Nova Sport 
 #http://136.243.177.164/NOVASPORT/playlist.m3u8
 #EXTINF:-1 tvg-id="OPENBEYOND.gr" tvg-name="ONE TV" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" group-title="GREECE",ONE TV
-https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
+#https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/kcmblc8k/2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV (English)" tvg-shift="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/896773300667461633/F75hrQfN.jpg" group-title="SPORTS",REAL MADRID TV
 #http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/kcmblc8k/2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/show_tv_tr.png" group-title="TURKEY",SHOW TV 
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="Skai.gr" tvg-name="SKAI GREECE" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Skai_tv_logo.png" group-title="GREECE",SKAI GREECE
