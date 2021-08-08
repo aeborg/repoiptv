@@ -18,7 +18,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="BEYAZ TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/BEYAZHDPLUS.png" group-title="TURKEY",BEYAZ TV 
 https://cdn1.mobiletv.bg/T8/tlc/tlc.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG.tr" tvg-name="BLOOMBERG" tvg-shift="" radio="" tvg-logo="https://www.bloomberght.com/images/logo.png" group-title="TURKEY",BLOOMBERG 
-https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/chunklist_b2064000.m3u8
+https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_540p1250000/index.m3u8
 #EXTINF:-1 tvg-id="CNN.tr" tvg-name="CNN TURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/cnn_turk.png" group-title="TURKEY",CNN TURK 
 https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_540p1250000/index.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/DMAXHDPLUS.png" group-title="TURKEY",DMAX
@@ -40,6 +40,7 @@ https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
 https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/fox.png" group-title="TURKEY",FOX TV 
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
+https://av.livestreamlive.xyz/hls/fox.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="INTERNATIONAL",FRANCE 24
 #http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/haber_global.png" group-title="TURKEY",HABER GLOBAL
@@ -77,7 +78,6 @@ https://mn-nl.mncdn.com/blutv_showtv_dvr/live_720p2000000/index.m3u8
 #https://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/star_tv_tr_hd.png" group-title="TURKEY",STAR TV
-#https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
 https://mn-nl.mncdn.com/blutv_startv_dvr/live_360p500000/index.m3u8
 #EXTINF:-1 tvg-id="star.gr" tvg-name="STAR GREECE" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/Zxx80Od.png" group-title="GREECE",STAR GREECE
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
@@ -87,7 +87,7 @@ https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE1" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tele_1.png" group-title="TURKEY",TELE 1
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tlc.png" group-title="TURKEY",TLC
-http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt1_hd.png" group-title="TURKEY",TRT 1 
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt_belgesel_tr_hd.png" group-title="TURKEY",TRT BELGESEL HD
