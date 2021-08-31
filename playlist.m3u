@@ -28,7 +28,7 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ERT SPORTS HD" tvg-shift="" radio="" tvg-logo="https://www.sportime.gr/wp-content/uploads/2019/02/ert.jpg" group-title="GREECE",ERT SPORTS HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ERT1" tvg-shift="" radio="" tvg-logo="https://stadiodromia.gr/thleorash/ert1/ert1_logo.png" group-title="GREECE",ERT1
-https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_2Mbps.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ERT2" tvg-shift="" radio="" tvg-logo="https://www.media.gr/wp-content/uploads/2020/03/ερτ2-ert2-tv-live.jpg" group-title="GREECE",ERT2
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-name="Euronews.nws" tvg-shift="" radio="" tvg-logo="https://www.driver-project.eu/wp-content/uploads/2018/06/euronews-logo.jpg" group-title="INTERNATIONAL",EURONEWS 
@@ -47,7 +47,7 @@ https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_540p1250000/index.m3u8
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="HABERTURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/haber_turk.png" group-title="TURKEY",HABERTURK 
 https://mn-nl.mncdn.com/blutv_haberturk_dvr/live_540p1250000/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/halk_tv.png" group-title="TURKEY",HALK TV
-https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
+https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC Spor" tvg-shift="" radio="" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" group-title="AZERBAYCAN",CBC Spor
 #https://59c7ea6bec1c6.streamlock.net/live/cbcsport.stream/chunklist_w1384220329.m3u8?hash=fff53a852d415ba2073197b0c316a906
 http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
