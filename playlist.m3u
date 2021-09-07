@@ -65,7 +65,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 https://dogus.daioncdn.net/ntv/ntv_576p.m3u8
 #EXTINF:-1 tvg-id="NovaSport.cz" tvg-name="Nova Sport" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Nova_sport_logo.png" group-title="TURKEY",Nova Sport 
 #http://136.243.177.164/NOVASPORT/playlist.m3u8
-#EXTINF:-1 tvg-id="OPENBEYOND.gr" tvg-name="ONE TV" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" group-title="GREECE",ONE TV
+#EXTINF:-1 tvg-id="OPENBEYOND.gr" tvg-name="ONE TV" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" group-title="GREECE",OPEN HD TV
 #https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/1vdj1cxb/2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV (English)" tvg-shift="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/896773300667461633/F75hrQfN.jpg" group-title="SPORTS",REAL MADRID TV
