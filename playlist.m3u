@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="AlJazeeraInt.tr" tvg-name="AlJazeeraInt" tvg-shift="" radio="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="INTERNATIONAL",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="alpha.gr" tvg-name="ALPHA HD" tvg-shift="" radio="" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png" group-title="GREECE",ALPHA HD
-https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/bpfkbp2c/2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="ANT1.gr" tvg-name="ANT1 HD" tvg-shift="" radio="" tvg-logo="http://greektv.pbworks.com/f/ANT1.png" group-title="GREECE",ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARTI TV" tvg-shift="" radio="" tvg-logo="https://artitv.tv/wp-content/uploads/ARTI_TV_LOGO_240px.jpg" group-title="TURKEY",ARTI 
