@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://github.com/GreekTVApp/EPG-GRCY/releases/download/EPG/epg.xml.gz"
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A SPOR" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/a_spor_tr.png" group-title="TURKEY",A SPOR 
 #https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraInt.tr" tvg-name="AlJazeeraInt" tvg-shift="" radio="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="INTERNATIONAL",Al Jazeera
@@ -31,19 +31,10 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ERT2" tvg-shift="" radio="" tvg-logo="https://www.media.gr/wp-content/uploads/2020/03/ερτ2-ert2-tv-live.jpg" group-title="GREECE",ERT2
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ERTWORLD" tvg-shift="" radio="" tvg-logo="https://www.media.gr/wp-content/uploads/2020/03/ερτ2-ert2-tv-live.jpg" group-title="GREECE",ERT2
-https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ERTWORLD" tvg-shift="" radio="" tvg-logo="https://www.media.gr/wp-content/uploads/2020/03/ερτ2-ert2-tv-live.jpg" group-title="GREECE",ERT WORLD
+http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-name="Euronews.nws" tvg-shift="" radio="" tvg-logo="https://www.driver-project.eu/wp-content/uploads/2018/06/euronews-logo.jpg" group-title="INTERNATIONAL",EURONEWS 
 https://stream-11.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa9QjYyl0hUzWrlCwM2Qgtz4)/dm/3/x2j4h4m/s/live-3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector-xs.png" group-title="INTERNATIONAL",EUROSPORT 1 
-#http://136.243.177.164/EUROSPORT/playlist.m3u8
-https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector-xs.png" group-title="INTERNATIONAL",EUROSPORT 2 
-https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
-#EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/fox.png" group-title="TURKEY",FOX TV 
-https://av.livestreamlive.xyz/hls/fox.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="INTERNATIONAL",FRANCE 24
-#http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/haber_global.png" group-title="TURKEY",HABER GLOBAL
 https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_540p1250000/index.m3u8
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="HABERTURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/haber_turk.png" group-title="TURKEY",HABERTURK 
@@ -53,22 +44,18 @@ https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC Spor" tvg-shift="" radio="" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" group-title="AZERBAYCAN",CBC Spor
 #https://59c7ea6bec1c6.streamlock.net/live/cbcsport.stream/chunklist_w1384220329.m3u8?hash=fff53a852d415ba2073197b0c316a906
 http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
-#EXTINF:-1 tvg-id="" tvg-name="ITV" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="INTERNATIONAL",ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr tvg-name="KANAL 7" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/kanal7_tr.png" group-title="TURKEY",KANAL 7
 https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/kanal_d_tr.png" group-title="TURKEY",KANAL D 
 https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/krt_tr.png" group-title="TURKEY",KRT TV
-http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.mega.gr" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA HD
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKworld.jp" tvg-name="NHK WORLD" tvg-shift="" radio="" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL.png" group-title="INTERNATIONAL",NHK WORLD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/ntv_tr.png" group-title="TURKEY",NTV 
 https://mn-nl.mncdn.com/blutv_ntv_dvr/live_540p1250000/index.m3u8
-#EXTINF:-1 tvg-id="NovaSport.cz" tvg-name="Nova Sport" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Nova_sport_logo.png" group-title="TURKEY",Nova Sport 
-#http://136.243.177.164/NOVASPORT/playlist.m3u8
 #EXTINF:-1 tvg-id="OPENBEYOND.gr" tvg-name="ONE TV" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" group-title="GREECE",OPEN HD TV
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/1vdj1cxb/2728/chunklist.m3u8
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/show_tv_tr.png" group-title="TURKEY",SHOW TV 
 https://mn-nl.mncdn.com/blutv_showtv_dvr/live_720p2000000/index.m3u8
 #EXTINF:-1 tvg-id="Skai.gr" tvg-name="SKAI GREECE" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Skai_tv_logo.png" group-title="GREECE",SKAI GREECE
@@ -77,9 +64,7 @@ https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/star_tv_tr_hd.png" group-title="TURKEY",STAR TV
 https://mn-nl.mncdn.com/blutv_startv_dvr/live_360p500000/index.m3u8
 #EXTINF:-1 tvg-id="star.gr" tvg-name="STAR GREECE" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/Zxx80Od.png" group-title="GREECE",STAR GREECE
-https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV" tvg-shift="" radio="" tvg-logo="https://www.nos.pt/institucional/PT/sobre-a-nos/empresas-e-negocios/PublishingImages/Logos/sport-tv.jpg"group-title="PORTUGAL" ,Sport TV 1
-#http://77.54.145.209:81/play/a02v
+http://livestar.siliconweb.com/media/star1/star1.m3u8
 #EXTINF:-1 tvg-id="TV2.tr" tvg-name="TEVE 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/teve2.png" group-title="TURKEY",TEVE 2
 https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE1" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tele_1.png" group-title="TURKEY",TELE 1
@@ -97,6 +82,4 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/136
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="TV 360" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/360_tv_tr.png" group-title="TURKEY",TV 360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/tv8_tr.png" group-title="TURKEY",TV 8 
-#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8.5" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/tv85_tr.png" group-title="TURKEY",TV 8.5 
 
