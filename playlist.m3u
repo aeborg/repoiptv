@@ -5,10 +5,6 @@
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.alpha.gr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Alpha_HD.svg/revision/latest/scale-to-width-down/300?cb=20200803142444",ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/bpfkbp2c/2728/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARTI TV" tvg-shift="" radio="" tvg-logo="https://artitv.tv/wp-content/uploads/ARTI_TV_LOGO_240px.jpg" group-title="TURKEY",ARTI 
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/139
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-language="Turkish" tvg-logo="http://picon.webhop.net/logo/turkey/atv_tr.png" tvg-country="TR" tvg-url="" group-title="TURKEY",A TV
-#https://av.livestreamlive.xyz/hls/atv.m3u8
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/BBC2.png" group-title="INTERNATIONAL",BBC 2
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.nws" tvg-name="BBC World" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/bbc_world_news_uk.png" group-title="INTERNATIONAL",BBC World
