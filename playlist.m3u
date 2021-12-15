@@ -12,9 +12,9 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="BEYAZ TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/BEYAZHDPLUS.png" group-title="TURKEY",BEYAZ TV 
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG.tr" tvg-name="BLOOMBERG" tvg-shift="" radio="" tvg-logo="https://www.bloomberght.com/images/logo.png" group-title="TURKEY",BLOOMBERG 
-https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_540p1250000/index.m3u8
+https://mn-nl.mncdn.com/blutv_haberturk_dvr/live_540p1250000kbps/index.m3u8
 #EXTINF:-1 tvg-id="CNN.tr" tvg-name="CNN TURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/cnn_turk.png" group-title="TURKEY",CNN TURK 
-https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_540p1250000/index.m3u8
+https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_540p1250000kbps/index.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/DMAXHDPLUS.png" group-title="TURKEY",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW EUROPE" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/germanynew/dw.png" group-title="INTERNATIONAL",DW EUROPE
@@ -51,7 +51,7 @@ https://mn-nl.mncdn.com/blutv_ntv_dvr/live_540p1250000/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/show_tv_tr.png" group-title="TURKEY",SHOW TV 
-https://mn-nl.mncdn.com/blutv_showtv_dvr/live_720p2000000/index.m3u8
+https://mn-nl.mncdn.com/blutv_showturk2/live_540p1250000kbps/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.skai.gr" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD
 https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/star_tv_tr_hd.png" group-title="TURKEY",STAR TV
