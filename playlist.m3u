@@ -38,7 +38,7 @@ https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/haber_global.png" group-title="TURKEY",HABER GLOBAL
 https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_540p1250000/index.m3u8
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="HABERTURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/haber_turk.png" group-title="TURKEY",HABERTURK 
-https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8
+https://mn-nl.mncdn.com/blutv_haberturk_dvr/live_540p1250000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/halk_tv.png" group-title="TURKEY",HALK TV
 https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC Spor" tvg-shift="" radio="" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" group-title="AZERBAYCAN",CBC Spor
