@@ -16,11 +16,13 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="BEYAZ TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/BEYAZHDPLUS.png" group-title="TURKEY",BEYAZ TV 
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG.tr" tvg-name="BLOOMBERG" tvg-shift="" radio="" tvg-logo="https://www.bloomberght.com/images/logo.png" group-title="TURKEY",BLOOMBERG 
-https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_540p1250000kbps/index.m3u8
+#https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_540p1250000kbps/index.m3u8
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1 tvg-id="CNN.tr" tvg-name="CNN TURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/cnn_turk.png" group-title="TURKEY",CNN TURK 
 https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_540p1250000kbps/index.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/DMAXHDPLUS.png" group-title="TURKEY",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW EUROPE" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/germanynew/dw.png" group-title="INTERNATIONAL",DW EUROPE
 #http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ERT SPORTS HD" tvg-shift="" radio="" tvg-logo="https://www.sportime.gr/wp-content/uploads/2019/02/ert.jpg" group-title="GREECE",ERT SPORTS HD
@@ -71,11 +73,14 @@ http://livestar.siliconweb.com/media/star1/star1.m3u8
 #EXTINF:-1 tvg-id="TV2.tr" tvg-name="TEVE 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/teve2.png" group-title="TURKEY",TEVE 2
 https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tlc.png" group-title="TURKEY",TLC
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000/index.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt1_hd.png" group-title="TURKEY",TRT 1 
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt_belgesel_tr_hd.png" group-title="TURKEY",TRT BELGESEL HD
-http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd
+#http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT SPOR" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/TRTSPORHDPLUS.png" group-title="TURKEY",TRT SPOR
 http://mfe.cliptv.az/dash/TRT_SPOR_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Tv100.tr" tvg-name="Tv100.tr tvg-shift="" radio="" tvg-logo="https://s.tv100.com/assets/web/images/logo.png" group-title="TURKEY",TV100
@@ -84,8 +89,11 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/136
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="TV 8" tvg-shift="" radio="" logo="https://wmxznm9feqh3.merlincdn.net/assets/394c5a3d-de9f-4a05-a268-ea8100d7e7ea.png",TV8
 http://213.115.248.46:9000/TR_-_TV_8_HD_PLUS/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="TV 85" tvg-shift="" radio="" logo="https://www.tv8bucuk.com/s/template/v2/img/tv8bucuk_logo.png",TV8.5
+https://mn-nl.mncdn.com/blutv_tv8_52/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="TELE 1" tvg-shift="" radio="" logo="https://wmxznm9feqh3.merlincdn.net/assets/3d470a29-90b3-46b3-8254-5f54ea91a32d.png",TELE 1
-https://mn-nl.mncdn.com/blutv_tele1_dvr/live.m3u8
+#https://mn-nl.mncdn.com/blutv_tele1_dvr/live.m3u8
+https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="TV 360" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/360_tv_tr.png" group-title="TURKEY",TV 360
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
 
