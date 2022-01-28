@@ -38,7 +38,8 @@ https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8
 #EXTINF:-1 tvg-id="" tvg-name="FLASH TV" tvg-shift="" radio="" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" group-title="TURKEY",FLASH TV
 https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX TV" tvg-shift="" radio="" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e79397a0-ec34-41aa-97b5-9323f1296383.png" group-title="TURKEY",FOX TV 
-https://mn-nl.mncdn.com/blutv_foxtv2/live_720p2000000kbps/index.m3u8
+#https://mn-nl.mncdn.com/blutv_foxtv2/live_720p2000000kbps/index.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/haber_global.png" group-title="TURKEY",HABER GLOBAL
 https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_540p1250000/index.m3u8
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="HABERTURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/haber_turk.png" group-title="TURKEY",HABERTURK 
@@ -53,7 +54,8 @@ https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/kanal_d_tr.png" group-title="TURKEY",KANAL D 
 http://mfe01.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-shift="" radio="" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8b0cd26d-1211-485b-87f7-f648e33c44f1.png" group-title="TURKEY",KRT TV
-https://livex458745.livestreamlive.xyz/krt.m3u8
+#https://livex458745.livestreamlive.xyz/krt.m3u8
+https://mn-nl.mncdn.com/blutv_krt/live.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.mega.gr" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA HD
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKworld.jp" tvg-name="NHK WORLD" tvg-shift="" radio="" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL.png" group-title="INTERNATIONAL",NHK WORLD
@@ -74,7 +76,7 @@ http://livestar.siliconweb.com/media/star1/star1.m3u8
 https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tlc.png" group-title="TURKEY",TLC
 #https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000/index.m3u8
+https://mn-nl.mncdn.com/blutv_tlc2/live.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt1_hd.png" group-title="TURKEY",TRT 1 
 #https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
