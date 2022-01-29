@@ -83,8 +83,7 @@ https://mn-nl.mncdn.com/blutv_tlc2/live.m3u8
 #https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt_belgesel_tr_hd.png" group-title="TURKEY",TRT BELGESEL HD
-#http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd
-https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT SPOR" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/TRTSPORHDPLUS.png" group-title="TURKEY",TRT SPOR
 https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
 #EXTINF:-1 tvg-id="Tv100.tr" tvg-name="Tv100.tr tvg-shift="" radio="" tvg-logo="https://s.tv100.com/assets/web/images/logo.png" group-title="TURKEY",TV100
