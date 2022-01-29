@@ -51,7 +51,7 @@ https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 #https://59c7ea6bec1c6.streamlock.net/live/cbcsport.stream/chunklist_w1384220329.m3u8?hash=fff53a852d415ba2073197b0c316a906
 http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Kanal7.tr tvg-name="KANAL 7" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/kanal7_tr.png" group-title="TURKEY",KANAL 7
-https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/kanal_d_tr.png" group-title="TURKEY",KANAL D 
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-shift="" radio="" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8b0cd26d-1211-485b-87f7-f648e33c44f1.png" group-title="TURKEY",KRT TV
