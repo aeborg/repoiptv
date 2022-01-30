@@ -15,7 +15,8 @@ https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/BBC2.png" group-title="INTERNATIONAL",BBC 2
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.nws" tvg-name="BBC World" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/bbc_world_news_uk.png" group-title="INTERNATIONAL",BBC World
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 #EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="BEYAZ TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/BEYAZHDPLUS.png" group-title="TURKEY",BEYAZ TV 
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG.tr" tvg-name="BLOOMBERG" tvg-shift="" radio="" tvg-logo="https://www.bloomberght.com/images/logo.png" group-title="TURKEY",BLOOMBERG 
@@ -23,6 +24,8 @@ https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8
 #EXTINF:-1 tvg-id="CNN.tr" tvg-name="CNN TURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/cnn_turk.png" group-title="TURKEY",CNN TURK 
 https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_540p1250000kbps/index.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN INTERNATIONAL" tvg-shift="" radio="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo-500x281.png" group-title="INTERNATIONAL",CNN INTERNATIONAL
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/DMAXHDPLUS.png" group-title="TURKEY",DMAX
 https://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW EUROPE" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/germanynew/dw.png" group-title="INTERNATIONAL",DW EUROPE
