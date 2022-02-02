@@ -5,7 +5,7 @@ https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.alpha.gr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Alpha_HD.svg/revision/latest/scale-to-width-down/300?cb=20200803142444",ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/f1yvzq9v/2728/chunklist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.ant1.gr" tvg-logo="https://2.bp.blogspot.com/-VcmBdLSr-x0/VNs5Fb2qXRI/AAAAAAAATb8/K09lwCdMYtE/s1600/ant1tv.png",ANT1 HD
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.ant1.gr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Ant1_2008.svg/revision/latest/scale-to-width-down/78?cb=20201104112057",ANT1 HD
 https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARTI TV" tvg-shift="" radio="" tvg-logo="https://artitv.tv/wp-content/uploads/ARTI_TV_LOGO_240px.jpg" group-title="TURKEY",ARTI TV 
 http://176.10.117.18:8000/play/a002/index.m3u8
