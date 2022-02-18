@@ -104,4 +104,6 @@ https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 https://mn-nl.mncdn.com/blutv_tele1_dvr/live.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="TV 360" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/360_tv_tr.png" group-title="TURKEY",TV 360
 https://mn-nl.mncdn.com/blutv_360tv/live.m3u8
+#EXTINF:-1 tvg-name="ZDF Ⓖ" tvg-logo="https://i.imgur.com/JosNLQ0.png" group-title="Germany",ZDF Ⓖ
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 
