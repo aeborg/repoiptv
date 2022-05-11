@@ -11,7 +11,7 @@ https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8
 http://176.10.117.18:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-shift="" radio="" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" group-title="TURKEY",ATV 
 #http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
+https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/BBC2.png" group-title="INTERNATIONAL",BBC 2
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.nws" tvg-name="BBC World" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/bbc_world_news_uk.png" group-title="INTERNATIONAL",BBC World
