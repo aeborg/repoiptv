@@ -65,7 +65,7 @@ https://mn-nl.mncdn.com/blutv_krt/live.m3u8
 #https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 https://streamcdnb7-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKworld.jp" tvg-name="NHK WORLD" tvg-shift="" radio="" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL.png" group-title="INTERNATIONAL",NHK WORLD
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8
 #https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/ntv_tr.png" group-title="TURKEY",NTV 
 https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8
