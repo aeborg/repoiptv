@@ -4,7 +4,7 @@ https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraInt.tr" tvg-name="AlJazeeraInt" tvg-shift="" radio="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="INTERNATIONAL",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.alpha.gr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Alpha_HD.svg/revision/latest/scale-to-width-down/300?cb=20200803142444",ALPHA HD
-https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/ppvpgppg/2728/chunklist.m3u8
+http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.ant1.gr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Ant1_2008.svg/revision/latest/scale-to-width-down/250?cb=20201104112057",ANT1 HD
 https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARTI TV" tvg-shift="" radio="" tvg-logo="https://artitv.tv/wp-content/uploads/ARTI_TV_LOGO_240px.jpg" group-title="TURKEY",ARTI TV 
@@ -21,7 +21,7 @@ https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8
 #EXTINF:-1 tvg-id="CNN.tr" tvg-name="CNN TURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/cnn_turk.png" group-title="TURKEY",CNN TURK 
-https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_540p1250000kbps/index.m3u8
+https://cnnturkdvr.blutv.com/blutv_cnnturk_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN INTERNATIONAL" tvg-shift="" radio="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo-500x281.png" group-title="INTERNATIONAL",CNN INTERNATIONAL
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/DMAXHDPLUS.png" group-title="TURKEY",DMAX
@@ -67,7 +67,7 @@ https://streamcdnb7-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/go
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8
 #https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/ntv_tr.png" group-title="TURKEY",NTV 
-https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8
+https://ntvdvr.blutv.com/blutv_ntv_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/show_tv_tr.png" group-title="TURKEY",SHOW TV 
