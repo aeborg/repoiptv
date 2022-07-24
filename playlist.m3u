@@ -23,7 +23,7 @@ https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8
 #EXTINF:-1 tvg-id="CNN.tr" tvg-name="CNN TURK" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/cnn_turk.png" group-title="TURKEY",CNN TURK 
 https://cnnturkdvr.blutv.com/blutv_cnnturk_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN INTERNATIONAL" tvg-shift="" radio="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo-500x281.png" group-title="INTERNATIONAL",CNN INTERNATIONAL
-https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/DMAXHDPLUS.png" group-title="TURKEY",DMAX
 https://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW EUROPE" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/germanynew/dw.png" group-title="INTERNATIONAL",DW EUROPE
@@ -106,4 +106,6 @@ https://mn-nl.mncdn.com/blutv_tele1_dvr/live.m3u8
 https://mn-nl.mncdn.com/blutv_360tv/live.m3u8
 #EXTINF:-1 tvg-name="ZDF Ⓖ" tvg-logo="https://i.imgur.com/JosNLQ0.png" group-title="Germany",ZDF Ⓖ
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" status="online",Tennis Channel (720p)
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
