@@ -80,7 +80,8 @@ https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.star.gr" tvg-logo="https://i.imgur.com/zGpwulO.png",STAR HD
 http://livestar.siliconweb.com/media/star1/star1.m3u8
 #EXTINF:-1 tvg-id="TV2.tr" tvg-name="TEVE 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/teve2.png" group-title="TURKEY",TEVE 2
-https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
+#https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/249
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tlc.png" group-title="TURKEY",TLC
 #https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 https://mn-nl.mncdn.com/blutv_tlc2/live.m3u8
