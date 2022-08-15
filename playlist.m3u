@@ -57,7 +57,7 @@ http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Kanal7.tr tvg-name="KANAL 7" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/kanal7_tr.png" group-title="TURKEY",KANAL 7
 https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/kanal_d_tr.png" group-title="TURKEY",KANAL D 
-https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
+https://dai.google.com/linear/hls/pa/event/hZA5HVeySG6whHYHHsNpeQ/stream/b5666971-6f65-40d3-9923-9650513b1eaf:GRQ/variant/3efc3d6bce44fb2731be7efcb91a22cc/bandwidth/1577503.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-shift="" radio="" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8b0cd26d-1211-485b-87f7-f648e33c44f1.png" group-title="TURKEY",KRT TV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/139912
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.mega.gr" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA HD
@@ -83,8 +83,7 @@ http://livestar.siliconweb.com/media/star1/star1.m3u8
 #https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?sid=4l35xuah68af&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3
 https://teve2dvr.blutv.com/blutv_teve2_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tlc.png" group-title="TURKEY",TLC
-#https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-https://mn-nl.mncdn.com/blutv_tlc2/live.m3u8
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt1_hd.png" group-title="TURKEY",TRT 1 
 #https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
