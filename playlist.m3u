@@ -99,7 +99,7 @@ http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
 #EXTINF:0 tvg-id="TV85.tr" tvg-name="TV 85" tvg-shift="" radio="" logo="https://www.tv8bucuk.com/s/template/v2/img/tv8bucuk_logo.png" group-title="TURKEY",TV8.5
 https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 #EXTINF:0 tvg-id="Tele1.ch	" tvg-name="TELE 1" tvg-shift="" radio="" logo="https://wmxznm9feqh3.merlincdn.net/assets/3d470a29-90b3-46b3-8254-5f54ea91a32d.png" group-title="TURKEY",TELE 1
-https://mn-nl.mncdn.com/blutv_tele1_dvr/live.m3u8
+https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="TV 360" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/360_tv_tr.png" group-title="TURKEY",TV 360
 https://mn-nl.mncdn.com/blutv_360tv/live.m3u8
 #EXTINF:-1 tvg-name="ZDF Ⓖ" tvg-logo="https://i.imgur.com/JosNLQ0.png" group-title="Germany",ZDF Ⓖ
