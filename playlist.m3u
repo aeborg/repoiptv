@@ -107,4 +107,5 @@ https://mn-nl.mncdn.com/blutv_360tv/live.m3u8
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" status="online",Tennis Channel (720p)
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
+#EXTINF:0 tvg-id="" tvg-name="TRT 1" tvg-shift="" radio="" logo="" group-title="TURKEY",TRT 1
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
