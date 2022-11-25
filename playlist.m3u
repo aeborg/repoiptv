@@ -85,8 +85,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tlc.png" group-title="TURKEY",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt1_hd.png" group-title="TURKEY",TRT 1 
-#https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt_belgesel_tr_hd.png" group-title="TURKEY",TRT BELGESEL HD
 https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT SPOR" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/TRTSPORHDPLUS.png" group-title="TURKEY",TRT SPOR
