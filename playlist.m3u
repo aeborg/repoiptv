@@ -91,7 +91,7 @@ https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt_belgesel_tr_hd.png" group-title="TURKEY",TRT BELGESEL HD
 https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT SPOR" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/TRTSPORHDPLUS.png" group-title="TURKEY",TRT SPOR
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3334
 #EXTINF:-1 tvg-id="Tv100.tr" tvg-name="Tv100.tr tvg-shift="" radio="" tvg-logo="https://s.tv100.com/assets/web/images/logo.png" group-title="TURKEY",TV100
 https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 24" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/24_tr.png" group-title="TURKEY",TV 24 
