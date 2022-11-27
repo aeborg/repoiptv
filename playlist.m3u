@@ -7,7 +7,8 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.ant1.gr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Ant1_2008.svg/revision/latest/scale-to-width-down/250?cb=20201104112057",ANT1 HD
 #https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8
-http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
+#http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
+http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARTI TV" tvg-shift="" radio="" tvg-logo="https://artitv.tv/wp-content/uploads/ARTI_TV_LOGO_240px.jpg" group-title="TURKEY",ARTI TV 
 #http://176.10.117.18:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-shift="" radio="" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" group-title="TURKEY",ATV 
