@@ -13,7 +13,8 @@ http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-shift="" radio="" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" group-title="TURKEY",ATV 
 http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/BBC2.png" group-title="INTERNATIONAL",BBC 2
-http://ott-cdn.ucom.am/s24/index.m3u8
+#http://ott-cdn.ucom.am/s24/index.m3u8
+http://37.152.128.74:8081/play/a004
 #EXTINF:-1 tvg-id="BBCWorldNews.nws" tvg-name="BBC World" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/uk/bbc_world_news_uk.png" group-title="INTERNATIONAL",BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="BEYAZ TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/TURKIYE/BEYAZHDPLUS.png" group-title="TURKEY",BEYAZ TV 
@@ -81,6 +82,8 @@ https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.star.gr" tvg-logo="https://i.imgur.com/zGpwulO.png",STAR HD
 http://livestar.siliconweb.com/media/star1/star1.m3u8
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL TV" tvg-shift="" radio="" tvg-logo="" group-title="GERMANY",RTL TV
+http://188.93.237.130:8000/play/a002
 #EXTINF:-1 tvg-id="TV2.tr" tvg-name="TEVE 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/teve2.png" group-title="TURKEY",TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tlc.png" group-title="TURKEY",TLC
@@ -98,10 +101,11 @@ https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 24" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/24_tr.png" group-title="TURKEY",TV 24 
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:0 tvg-id="TV8.tr" tvg-name="TV 8" tvg-shift="" radio="" logo="https://wmxznm9feqh3.merlincdn.net/assets/394c5a3d-de9f-4a05-a268-ea8100d7e7ea.png" group-title="TURKEY",TV8
-http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:0 tvg-id="TV85.tr" tvg-name="TV 85" tvg-shift="" radio="" logo="https://www.tv8bucuk.com/s/template/v2/img/tv8bucuk_logo.png" group-title="TURKEY",TV8.5
-https://tv85.blutv.com/blutv_tv8_5_live/live.m3u8
-#EXTINF:0 tvg-id="Tele1.ch	" tvg-name="TELE 1" tvg-shift="" radio="" logo="https://wmxznm9feqh3.merlincdn.net/assets/3d470a29-90b3-46b3-8254-5f54ea91a32d.png" group-title="TURKEY",TELE 1
+#https://tv85.blutv.com/blutv_tv8_5_live/live.m3u8
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5390
+#EXTINF:0 tvg-id="Tele1.ch" tvg-name="TELE 1" tvg-shift="" radio="" logo="https://wmxznm9feqh3.merlincdn.net/assets/3d470a29-90b3-46b3-8254-5f54ea91a32d.png" group-title="TURKEY",TELE 1
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="TV 360" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/360_tv_tr.png" group-title="TURKEY",TV 360
 https://mn-nl.mncdn.com/blutv_360tv/live.m3u8
