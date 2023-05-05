@@ -113,3 +113,5 @@ https://mn-nl.mncdn.com/blutv_360tv/live.m3u8
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" status="online",Tennis Channel (720p)
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="SERVUS TV" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/05/31.png" group-title="Germany",SERVUS TV Ⓖ
+https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
