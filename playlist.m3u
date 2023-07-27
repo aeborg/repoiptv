@@ -83,7 +83,7 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 #http://livestar.siliconweb.com/media/star1/star1.m3u8
 http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 tvg-id="RTL" tvg-name="RTL TV" tvg-shift="" radio="" tvg-logo="" group-title="GERMANY",RTL TV
-http://188.93.237.130:8000/play/a002
+https://s6.hopslan.com/rtlu111/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV2.tr" tvg-name="TEVE 2" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/teve2.png" group-title="TURKEY",TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkeyT/tlc.png" group-title="TURKEY",TLC
