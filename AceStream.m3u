@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:0,Al Jazeera News
+http://127.0.0.1:6878/ace/getstream?id=eb363703dc7d0a25f02a7c743b0f02f16c256206
+#EXTINF:0, beIN Sports HD 1 Turkey
+http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52&hlc=1&spv=0
+#EXTINF:0,beIN Sports HD 2 Turkey
+http://127.0.0.1:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05&hlc=1&spv=0
+#EXTINF:0,beIN Sports HD 3 Turkey
+http://127.0.0.1:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
+#EXTINF:0,beIN Sports HD 4 Turkey
+http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
+#EXTINF:0,DAZN 1 HD GERMANY
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:0,DAZN 2 HD GERMANY
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:0,DAZN 1 F1 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
+#EXTINF:0,DAZN 1 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:0,DAZN 2
+http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:0,Eurosport 1 Germany
+http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:0,BT Sports 1 UK
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:0,BT Sports 2 UK
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:0,Sky Sports Footbal UK
+http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:0,PREMIER SPORTS 1 UK
+http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:0,Sky Sports F1 UK
+http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:0,BT Sports ESPN UK
+http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:0,Tennis Channel
+http://127.0.0.1:6878/ace/getstream?id=756aa727f132136b43e1937affcc69cbe40fccad
+#EXTINF:0,NHK World Japan
+http://127.0.0.1:6878/ace/getstream?id=5f373a35bf81b99a0b7ca7148c6342835493d612
+#EXTINF:0,BBC World News
+http://127.0.0.1:6878/ace/getstream?id=81a41008cfeedf1402335bbc9c9bd04c7fef87b3
+#EXTINF:0,TRT Haber
+http://127.0.0.1:6878/ace/getstream?id=5b6cd7d806c0794a9d72745dc6171815e3e313da
+#EXTINF:0,Open HD Beyond Greece
+http://127.0.0.1:6878/ace/getstream?id=4b20a7d85355b504ff675f798b1ec2ab30e6ebcb&hlc=1&spv=0
+
