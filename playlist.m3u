@@ -8,7 +8,7 @@ http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.ant1.gr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Ant1_2008.svg/revision/latest/scale-to-width-down/250?cb=20201104112057",ANT1 HD
 #https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8
 #http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
-http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
+#http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARTI TV" tvg-shift="" radio="" tvg-logo="https://artitv.tv/wp-content/uploads/ARTI_TV_LOGO_240px.jpg" group-title="TURKEY",ARTI TV 
 #http://176.10.117.18:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-shift="" radio="" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" group-title="TURKEY",ATV 
@@ -62,8 +62,7 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-shift="" radio="" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8b0cd26d-1211-485b-87f7-f648e33c44f1.png" group-title="TURKEY",KRT TV
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.mega.gr" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA HD
-#https://streamcdnb7-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+https://streamcdnf25-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b3710976.m3u8
 #EXTINF:-1 tvg-id="NHKworld.jp" tvg-name="NHK WORLD" tvg-shift="" radio="" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL.png" group-title="INTERNATIONAL",NHK WORLD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8
 #https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
@@ -74,7 +73,7 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/show_tv_tr.png" group-title="TURKEY",SHOW TV 
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.skai.gr" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD
-https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+https://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV" tvg-shift="" radio="" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png" group-title="TURKEY",STAR TV
 #http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
 https://dogus-live.daioncdn.net/startv/startv.m3u8
